@@ -104,3 +104,5 @@ Full project overview including system schematic (EasyEDA), Gantt chart, and har
 **Matthew Wallace** — Biomedical Engineering, University of Nevada, Reno (B.S. 2023)  
 Pursuing M.S. Electrical Engineering, UNR, Fall 2026  
 linkedin.com/in/mattwallace-bme
+
+**Monte Howell** — Biomedical Engineering, University of Nevada, Reno (B.S. 2023)
