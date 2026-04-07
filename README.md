@@ -95,6 +95,4 @@ Full project overview including system schematic (EasyEDA), Gantt chart, and har
 Pursuing M.S. Electrical Engineering, UNR, Fall 2026  
 linkedin.com/in/mattwallace-bme
 
-**Monte Howell** — Biomedical Engineering, University of Nevada, Reno (B.S. 2023) Primary co-developer of the firmware. Monte and I wrote the entirety of the code
-together through collaborative development and debugging, outside of the official
-course team.
+**Monte Howell** — Biomedical Engineering, University of Nevada, Reno (B.S. 2023) Primary co-developer of the firmware. 
